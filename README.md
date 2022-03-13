@@ -1,4 +1,4 @@
-# Text-Classification-Toxic-Comments
+# Kaggle:Jigsaw Rate Severity of Toxic Comments
 
 ## 比赛介绍:
 
